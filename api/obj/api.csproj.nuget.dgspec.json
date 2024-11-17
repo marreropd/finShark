@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pablo\\Documents\\GitHub\\FinSharks\\finShark\\api\\api.csproj": {}
+    "C:\\Users\\pablo\\Documents\\GitHub\\finShark\\api\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pablo\\Documents\\GitHub\\FinSharks\\finShark\\api\\api.csproj": {
+    "C:\\Users\\pablo\\Documents\\GitHub\\finShark\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pablo\\Documents\\GitHub\\FinSharks\\finShark\\api\\api.csproj",
+        "projectUniqueName": "C:\\Users\\pablo\\Documents\\GitHub\\finShark\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\pablo\\Documents\\GitHub\\FinSharks\\finShark\\api\\api.csproj",
+        "projectPath": "C:\\Users\\pablo\\Documents\\GitHub\\finShark\\api\\api.csproj",
         "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pablo\\Documents\\GitHub\\FinSharks\\finShark\\api\\obj\\",
+        "outputPath": "C:\\Users\\pablo\\Documents\\GitHub\\finShark\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
